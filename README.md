@@ -4,11 +4,11 @@
 
 This project involves the statistical examination of two structured datasets—one continuous and one binary—following a directive-based framework. The goal was to apply statistical techniques, summarize data behavior, measure variability, and interpret patterns across 100+ variables. The project demonstrates competency in descriptive analytics, probability, and data-driven interpretation using Excel.
 
-🧠 Directive 1 — Numerical Data Analysis
+ Directive 1 — Numerical Data Analysis
 
 The Directive 1 dataset consists of 100 columns of continuous variables representing numeric measurements.
 
-🔍 Analytical Techniques
+ Analytical Techniques
 
 Descriptive Statistics:
 Computed central tendency and variability metrics including:
@@ -38,7 +38,7 @@ Data Profiling:
 Excel Functions Utilized:
 AVERAGE, MEDIAN, STDEV.P, VAR.P, MIN, MAX, PERCENTILE, conditional formatting, and summary tables.
 
-🎯 Outcomes
+ Outcomes
 
 - Clear statistical summary for each variable
 
@@ -46,11 +46,11 @@ AVERAGE, MEDIAN, STDEV.P, VAR.P, MIN, MAX, PERCENTILE, conditional formatting, a
 
 - Identified patterns useful for further modeling or decision-making
 
-🗂️ Directive 2 — Binary Data Analysis
+ Directive 2 — Binary Data Analysis
 
 The Directive 2 dataset contains 100 columns of binary (0/1) categorical indicators.
 
-🔍 Analytical Techniques
+ Analytical Techniques
 
 Frequency Analysis:
 
@@ -69,7 +69,7 @@ Probability Assessment:
 Excel Functions Utilized:
 COUNTIF, COUNT, proportion formulas, pivot-style summaries
 
-🎯 Outcomes
+ Outcomes
 
 - Full probability breakdown across binary features
 
@@ -77,7 +77,7 @@ COUNTIF, COUNT, proportion formulas, pivot-style summaries
 
 - Categorical pattern recognition across all variables
 
-🧰 Tools & Technologies
+ Tools & Technologies
 
 - Microsoft Excel
 
@@ -91,7 +91,7 @@ COUNTIF, COUNT, proportion formulas, pivot-style summaries
 
 - Pattern & Distribution Analysis
 
-📈 Skills Demonstrated
+ Skills Demonstrated
 
 This project highlights expertise in:
 
